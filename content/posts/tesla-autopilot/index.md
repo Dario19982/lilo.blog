@@ -3,7 +3,7 @@ title = "Tesla Autopilot"
 date = "2023-06-15"
 draft = false
 pinned = false
-footnotes = "https://muristalden.sharepoint.com/sites/InfoProjekt772/Freigegebene%20Dokumente/General/Recordings/Neue%20Kanalbesprechung-20230614_203715-Besprechungsaufzeichnung.mp4?web=1"
+footnotes = "<https://muristalden.sharepoint.com/:v:/r/sites/InfoProjekt772/Freigegebene%20Dokumente/General/Recordings/Neue%20Kanalbesprechung-20230614_203715-Besprechungsaufzeichnung.mp4?csf=1&web=1&e=wkTEst>"
 +++
 
 
